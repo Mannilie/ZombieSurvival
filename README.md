@@ -1,3 +1,6 @@
+Zombie Survival
+===============
+
 Zombie Survival was a game project that I worked on during my time studying at AIE. The game was a submisson to my first assignment where I had to work in team of artists for the first time.
 
 <img src="https://lh5.googleusercontent.com/SUD_4lFTVkd5ckTkYY55pC4HQcBre1DHYOSrm_h-0Ju5InWr61SoJWKJU3-Ppeb4Vgw96XsU1nOL0mbFg1X4=w1920-h943-rw" alt="" width="400" height="400" />
